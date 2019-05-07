@@ -1,0 +1,20 @@
+{
+    "name": "vikkio88/nicu",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vincenzo Ciaccio",
+            "email": "vincenzo.ciaccio@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "vikkio88/nicu-framework": "dev-master"
+    },
+    "scripts": {
+        "build": [
+            "php scripts/build.php -v"
+        ]
+    }
+}
