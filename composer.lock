@@ -975,12 +975,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/vikkio88/nicu-framework.git",
-                "reference": "6ac2a3811015d9a2dd4c6d5f0d8feadfab79501e"
+                "reference": "a9109ef1ff7ff4d6c5764fc6abaf54228972686a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/vikkio88/nicu-framework/zipball/6ac2a3811015d9a2dd4c6d5f0d8feadfab79501e",
-                "reference": "6ac2a3811015d9a2dd4c6d5f0d8feadfab79501e",
+                "url": "https://api.github.com/repos/vikkio88/nicu-framework/zipball/a9109ef1ff7ff4d6c5764fc6abaf54228972686a",
+                "reference": "a9109ef1ff7ff4d6c5764fc6abaf54228972686a",
                 "shasum": ""
             },
             "require": {
@@ -1020,7 +1020,7 @@
                 "rest",
                 "slim"
             ],
-            "time": "2019-05-07T21:39:57+00:00"
+            "time": "2019-05-08T19:02:04+00:00"
         },
         {
             "name": "visavi/cleanup",
