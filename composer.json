@@ -20,6 +20,9 @@
     "scripts": {
         "build": [
             "php scripts/build.php -v"
+        ],
+        "clean-build": [
+            "php scripts/build.php -v -d"
         ]
     }
 }
