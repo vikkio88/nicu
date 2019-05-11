@@ -8,10 +8,6 @@
             "email": "vincenzo.ciaccio@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {
-        "vikkio88/nicu-framework": "dev-master"
-    },
     "autoload": {
         "psr-4": {
             "App\\": "src/"
@@ -24,5 +20,8 @@
         "clean-build": [
             "php scripts/build.php -v -d"
         ]
+    },
+    "require": {
+        "vikkio88/nicu-framework": "0.0.1"
     }
 }
